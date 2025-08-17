@@ -1,53 +1,149 @@
-# M Anas Latif
+# Hi, I'm M. Anas Latif 👋
 
-🚀 **MERN Stack Developer & UX Designer | Software Engineer** 🌟
+🚀 **MERN Stack Software Engineer | UX Designer**  
+I’m passionate about building **scalable web applications**, **beautiful user interfaces**, and creating **impactful digital experiences**.
 
-## About Me
+## 💡 About Me
 
-I'm a passionate MERN Stack developer and UX Designer, dedicated to crafting exceptional web experiences. With expertise in a variety of modern technologies, including React.js, Next.js, Node.js, Express.js, MongoDB, and Tailwind CSS, I combine creative design with robust development to create user-friendly and visually appealing web applications. My mission is to deliver high-quality solutions that leave a lasting impact and drive innovation in the digital world.
+- _A quick overview of my background, interests, and what drives me as a developer._
+- 🔭 Currently working on **MERN & Next.js projects**
+- 🎨 Strong focus on **User Experience & Interface Design**
+- 🌱 Always learning and experimenting with **new technologies**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, Tailwind CSS**
+- ⚡ Fun fact: I love solving **real-world problems with code**
 
-## Front-End Development
+<p align="center">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MAnasLatif&theme=tokyonight" />
+</p>
 
-As a front-end developer, I specialize in crafting engaging user interfaces using modern technologies like React.js and Next.js. I'm dedicated to creating intuitive and user-friendly designs that leave a lasting impression.
+## 🛠️ Tech Stack
 
-### Front-End Skills
+_A summary of the main technologies, tools, and frameworks I use in my projects._
 
-- ⚛️ **React.js**: Building interactive and dynamic web interfaces.
-- 🚀 **Next.js**: Creating fast and server-rendered React applications.
-- 🎨 **UI/UX Design**: Creating stunning user experiences.
-- 🌐 **HTML/CSS/JavaScript**: Crafting the foundation of web applications.
-- 🚀 **Responsive Design**: Ensuring seamless experiences across devices.
-- 🍃 **State Management (Redux)**: Managing complex application states.
-- 🌈 **Styling (Tailwind CSS, Bootstrap)**: Making interfaces beautiful.
+### **Languages & Frameworks**
 
-## Back-End Development
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
-In the back-end realm, I excel at building robust and scalable server-side applications. My experience with Node.js and MongoDB enables me to create efficient and high-performance APIs.
+### **Frontend**
 
-### Back-End Skills
+_Libraries and frameworks I use to build modern, responsive user interfaces._
 
-- 🚀 **Node.js**: Crafting server-side logic with JavaScript.
-- 🍃 **MongoDB**: Designing and managing database systems.
-- 🌐 **Express.js**: Building RESTful APIs with ease.
-- 🔐 **Authentication & Authorization**: Ensuring data security.
-- 📦 **RESTful API Development**: Creating efficient data endpoints.
-- 🛠️ **Database Design**: Structuring data for optimal performance.
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Hero UI](https://img.shields.io/badge/Hero_UI-0F172A?style=flat&logo=heroui&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/shadcn_UI-000000?style=flat&logo=shadcn&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=flat&logo=radixui&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
+![Headless UI](https://img.shields.io/badge/Headless_UI-000000?style=flat&logo=headlessui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white)
 
-## Social Links
+### **Mobile App**
 
-Connect with me on social media and professional platforms:
+_Tools and frameworks for building cross-platform mobile applications._
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaslatif)
-- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAnasLatif)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.anaslatif)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MAnasLatif)
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/m.anaslatif.pk)
-- [![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)](https://www.snapchat.com/add/m.anaslatif?share_id=YAra2wY9EuI&locale=en-US)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=flat&logo=expo&logoColor=white)
 
-## Contact
+### **Desktop App**
 
-Feel free to reach out to me via WhatsApp, Slack, or Microsoft Teams for collaboration or just to say hello:
+_Technologies for creating desktop applications with web technologies._
 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+923091181189)
-- [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://maldevorg.slack.com/archives/D04S12PMR0A)
-- [![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.live.com/meet/9561295097319?p=umOvgPSWOsxHvCkd)
+![Electron](https://img.shields.io/badge/Electron-191B24?style=flat&logo=electron&logoColor=white)
+
+### **Backend**
+
+_Frameworks and tools for building robust server-side applications and APIs._
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### **Tooling**
+
+_Utilities and tools that help streamline development and maintain code quality._
+
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
+![TurboRepo](https://img.shields.io/badge/TurboRepo-000000?style=flat&logo=turbo&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![PNPM](https://img.shields.io/badge/PNPM-F69220?style=flat&logo=pnpm&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+### **Design & Prototyping**
+
+_Design tools I use for UI/UX, prototyping, and visual assets._
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-F7B93E?style=flat&logo=sketch&logoColor=black)
+
+### **DevOps & CI/CD**
+
+_Technologies for automating deployment, scaling, and managing infrastructure._
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+### **Cloud & Hosting**
+
+_Platforms and services I use to deploy, host, and scale applications._
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
+![Linode](https://img.shields.io/badge/Linode-00A95C?style=flat&logo=linode&logoColor=white)
+
+### Testing
+
+_Testing frameworks and tools to ensure code reliability and quality._
+
+![Jest](https://img.shields.io/badge/Jest-32B3D8?style=flat&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A0522D?style=flat&logo=chai&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+
+## 🌐 Connect With Me
+
+_Find me online or get in touch through these platforms._
+
+<p align="left">
+  <a href="https://m.anaslatif.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:contact@anaslatif.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.whatsapp.com/send?phone=+923091181189" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manaslatif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/MAnasLatif" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/manaslatif" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/MAnasLatif" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ _“Code is like art — every line should have purpose and elegance.”_
