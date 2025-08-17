@@ -13,7 +13,7 @@ I’m passionate about building **scalable web applications**, **beautiful user 
 - ⚡ Fun fact: I love solving **real-world problems with code**
 
 <p align="center">
-<!--   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MAnasLatif&theme=tokyonight" /> -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=MAnasLatif&theme=tokyonight" />
 </p>
 
 ## 🛠️ Tech Stack
